@@ -86,7 +86,7 @@ report.docx. Откройте и проверьте корректность п�
 
 Загрузите файлы на gitverse(рис. [-@fig-fig14]).
 
-![Загрузка файлов на gitverse](image/5.png){#fig-fig14 width=50%}
+![Загрузка файлов на gitverse](image/gitverse.png){#fig-fig14 width=50%}
 
 # Заключение
 
